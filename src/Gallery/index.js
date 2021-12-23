@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {Row, Col} from 'react-bootstrap';
 
 function Gallery(){
@@ -7,10 +8,10 @@ function Gallery(){
         <div>
             <Row>
                 <Col>
-                    <img src={require().default} alt=""></img>
+                    <img src={require(`../assets/4.jpeg`)} alt="jaga"/>
                 </Col>
                 <Col>
-                    <img src={require().default} alt=""></img>
+                    
                 </Col>
 
             </Row>
