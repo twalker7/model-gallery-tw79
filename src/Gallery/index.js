@@ -11,7 +11,7 @@ function Gallery(){
                 <Col>
                     <img className="gallery-photos-type1" src={require(`../assets/8.jpeg`)} alt="model-duo"/>
                 </Col>
-                
+
             </Row>
             <Row>
 
@@ -52,6 +52,17 @@ function Gallery(){
                 </Col>
 
             </Row>
+
+            <Row>
+
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/0.jpeg`)} alt="jaga"/>
+
+                </Col>
+
+            </Row>
+
+
             
         </div>
 
