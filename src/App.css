@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url(/src/assets/omar-flores-unsplash.jpg);
+  background-size: cover; /* or contain depending on what you want */
+  background-position: center center;
+  background-repeat: repeat;
 }
 
 

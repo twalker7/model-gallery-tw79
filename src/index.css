@@ -12,7 +12,13 @@ code {
     monospace;
 }
 
+/* Gallery componenet */ 
 
+/*
+.gallery-component{
+  background-image: url();
+}
+ */
 .gallery-photos-type1{
   width: 50%;
   margin-top: 20px;
