@@ -8,7 +8,7 @@ function Gallery(){
         <div>
             <Row>
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/4.jpeg`)} alt="model-duo"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/8.jpeg`)} alt="model-duo"/>
                 </Col>
 
                 <Col>
@@ -36,6 +36,14 @@ function Gallery(){
                 <img className="gallery-photos-type1" src={require(`../assets/6.jpeg`)} alt="jaga"/>
 
                 </Col>
+            </Row>
+            <Row>
+                <Col></Col>
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/4.jpeg`)} alt="jaga"/>
+
+                </Col>
+                <Col></Col>
             </Row>
             
         </div>
