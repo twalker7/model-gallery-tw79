@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/model-gallery-tw79/static/css/main.c4322ca7.css",
+    "main.css": "/model-gallery-tw79/static/css/main.bc8a854a.css",
     "main.js": "/model-gallery-tw79/static/js/main.beaa81f7.js",
     "static/js/787.abeabf24.chunk.js": "/model-gallery-tw79/static/js/787.abeabf24.chunk.js",
     "static/media/4.jpeg": "/model-gallery-tw79/static/media/4.4dccae1f002c66853277.jpeg",
     "static/media/3.jpeg": "/model-gallery-tw79/static/media/3.6065f191b1428fbb1c2e.jpeg",
     "static/media/8.jpeg": "/model-gallery-tw79/static/media/8.b325bbc0c19414997652.jpeg",
-    "static/media/omar-flores-unsplash.jpg": "/model-gallery-tw79/static/media/omar-flores-unsplash.feaa5d3f157cb29fedb3.jpg",
+    "static/media/laura-vinck-unsplash.jpg": "/model-gallery-tw79/static/media/laura-vinck-unsplash.1744967c5fda6fae2b31.jpg",
     "static/media/6.jpeg": "/model-gallery-tw79/static/media/6.d8b825fe8d7c9b294863.jpeg",
     "static/media/9.jpeg": "/model-gallery-tw79/static/media/9.d8c11cd07ef2ec48f45c.jpeg",
     "static/media/0.jpeg": "/model-gallery-tw79/static/media/0.a4d7d71bc480b5fee724.jpeg",
     "static/media/7.jpeg": "/model-gallery-tw79/static/media/7.b20b95c2eba28b5652ea.jpeg",
     "index.html": "/model-gallery-tw79/index.html",
-    "main.c4322ca7.css.map": "/model-gallery-tw79/static/css/main.c4322ca7.css.map",
+    "main.bc8a854a.css.map": "/model-gallery-tw79/static/css/main.bc8a854a.css.map",
     "main.beaa81f7.js.map": "/model-gallery-tw79/static/js/main.beaa81f7.js.map",
     "787.abeabf24.chunk.js.map": "/model-gallery-tw79/static/js/787.abeabf24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4322ca7.css",
+    "static/css/main.bc8a854a.css",
     "static/js/main.beaa81f7.js"
   ]
 }
