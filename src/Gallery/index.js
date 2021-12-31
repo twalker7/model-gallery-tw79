@@ -9,9 +9,9 @@ function Gallery(){
 
             <Row>
 
-            <Col>
-                <img className="gallery-photos-type1" src={require(`../assets/4.jpeg`)} alt="waikiki-suite"/>
-            </Col>
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/4.jpeg`)} alt="waikiki-suite"/>
+                </Col>
 
             </Row>
             <Row>
@@ -21,10 +21,19 @@ function Gallery(){
                 </Col>
 
             </Row>
+
             <Row>
 
                 <Col>
                     <img className="gallery-photos-type1" src={require(`../assets/9.jpeg`)} alt="jaga-buyan-all-white"/>
+                </Col>
+
+            </Row>
+
+            <Row>
+
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/12.jpeg`)} alt="aumahn-washington-photography"/>
                 </Col>
 
             </Row>
@@ -63,11 +72,29 @@ function Gallery(){
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/0.jpeg`)} alt="aumahn-washington-photography"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/0.jpeg`)} alt="photo"/>
                 </Col>
 
             </Row>
 
+
+            <Row>
+
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/11.jpeg`)} alt="air-photo"/>
+                </Col>
+
+            </Row>
+
+
+
+            <Row>
+
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/13.jpeg`)} alt="yoshi-kant-photoraphy"/>
+                </Col>
+
+            </Row>
 
 
 
