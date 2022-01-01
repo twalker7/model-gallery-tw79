@@ -10,14 +10,7 @@ function Gallery(){
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/4.jpeg`)} alt="waikiki-suite"/>
-                </Col>
-
-            </Row>
-            <Row>
-
-                <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/10.jpeg`)} alt="jaga-buyan-catalogue model-duo"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/4.jpeg`)} alt="jaga-buyan-catalogue model-duo"/>
                 </Col>
 
             </Row>
@@ -25,31 +18,25 @@ function Gallery(){
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/9.jpeg`)} alt="jaga-buyan-all-white"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/10.jpeg`)} alt="black-and-white-headshot"/>
                 </Col>
 
             </Row>
+
 
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/12.jpeg`)} alt="aumahn-washington-photography"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/8.jpeg`)} alt="jaga-buyan-3-models"/>
                 </Col>
 
             </Row>
 
-            <Row>
-
-                <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/8.jpeg`)} alt="jaga-buyan"/>
-                </Col>
-
-            </Row>
 
             <Row>
 
                 <Col> 
-                    <img className="gallery-photos-type1" src={require(`../assets/3.jpeg`)} alt="jaga-buyan-catalog-2"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/3.jpeg`)} alt="jaga-buyan-3-models-2"/>
                 </Col>
                 
             </Row>
@@ -57,14 +44,14 @@ function Gallery(){
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/7.jpeg`)} alt="jaga-buyan-catalog-3"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/7.jpeg`)} alt="yoshi-kant-photography"/>
                 </Col>
 
             </Row>
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/6.jpeg`)} alt="yoshi-kant-photography"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/6.jpeg`)} alt="aumahn-washington-photography"/>
                 </Col>
 
             </Row>
@@ -72,7 +59,7 @@ function Gallery(){
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/0.jpeg`)} alt="photo"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/0.jpeg`)} alt="waikiki-photo"/>
                 </Col>
 
             </Row>
@@ -94,6 +81,12 @@ function Gallery(){
                     <img className="gallery-photos-type1" src={require(`../assets/13.jpeg`)} alt="yoshi-kant-photoraphy"/>
                 </Col>
 
+            </Row>
+                <br/>
+            <Row>
+                <Col>
+                    <h2 style={{color: 'whitesmoke'}}> Thank you for your time! </h2>
+                </Col>
             </Row>
 
 
