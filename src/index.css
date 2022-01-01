@@ -25,6 +25,12 @@ code {
   
 }
 
+#email-link{
+  color: white;
+}
+
+
+
 /* media query */ 
 
 @media only screen and (max-width: 600px) {
