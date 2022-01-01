@@ -85,7 +85,7 @@ function Gallery(){
                 <br/>
             <Row>
                 <Col>
-                    <h2 style={{color: 'whitesmoke'}}> Thank you for your time! </h2>
+                    <h3 style={{color: 'whitesmoke'}}> Thank you for visiting! </h3>
                 </Col>
             </Row>
 
