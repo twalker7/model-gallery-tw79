@@ -59,7 +59,7 @@ function Gallery(){
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/0.jpeg`)} alt="waikiki-photo"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/0.jpeg`)} alt="waikiki"/>
                 </Col>
 
             </Row>
@@ -68,11 +68,10 @@ function Gallery(){
             <Row>
 
                 <Col>
-                    <img className="gallery-photos-type1" src={require(`../assets/11.jpeg`)} alt="air-photo"/>
+                    <img className="gallery-photos-type1" src={require(`../assets/11.jpeg`)} alt="air-bookcover"/>
                 </Col>
 
             </Row>
-
 
 
             <Row>
