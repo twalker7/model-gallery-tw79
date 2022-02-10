@@ -7,6 +7,8 @@ function Gallery(){
         
         <div className="gallery-component">
 
+
+
             <Row>
 
                 <Col>
@@ -22,7 +24,6 @@ function Gallery(){
                 </Col>
 
             </Row>
-
 
             <Row>
 
@@ -44,6 +45,14 @@ function Gallery(){
             <Row>
 
                 <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/12.jpeg`)} alt="aumahn-washing-kennethhahn"/>
+                </Col>
+
+            </Row>
+
+            <Row>
+
+                <Col>
                     <img className="gallery-photos-type1" src={require(`../assets/7.jpeg`)} alt="yoshi-kant-photography"/>
                 </Col>
 
@@ -52,6 +61,21 @@ function Gallery(){
 
                 <Col>
                     <img className="gallery-photos-type1" src={require(`../assets/6.jpeg`)} alt="aumahn-washington-photography"/>
+                </Col>
+
+            </Row>
+
+            <Row>
+
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/9.jpeg`)} alt="all-white-suit"/>
+                </Col>
+
+            </Row>
+            <Row>
+
+                <Col>
+                    <img className="gallery-photos-type1" src={require(`../assets/14.jpeg`)} alt="aumahn-washing-kennethhahn"/>
                 </Col>
 
             </Row>
