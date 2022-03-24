@@ -112,6 +112,12 @@ function Gallery(){
                 </Col>
             </Row>
 
+            <Row>
+                <Col>
+                    <h5 style={{color: 'whitesmoke'}}> Back to top </h5>
+                </Col>
+            </Row>
+
 
 
 
