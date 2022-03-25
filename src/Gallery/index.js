@@ -111,14 +111,12 @@ function Gallery(){
                     <h3 style={{color: 'whitesmoke'}}> Thanks for visiting! </h3>
                 </Col>
             </Row>
-
+            <br/>
             <Row>
                 <Col>
-                    <h5 style={{color: 'whitesmoke'}}> Back to top </h5>
+                    <h5 style={{color: 'whitesmoke', fontSize:12}}> Copyright © 2022 Thomas Walker </h5>
                 </Col>
             </Row>
-
-
 
 
             
