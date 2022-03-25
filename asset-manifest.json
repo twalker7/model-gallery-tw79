@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/model-gallery-tw79/static/css/main.0a10c789.css",
-    "main.js": "/model-gallery-tw79/static/js/main.ee9c6a2b.js",
+    "main.js": "/model-gallery-tw79/static/js/main.6fcc73a5.js",
     "static/js/787.abeabf24.chunk.js": "/model-gallery-tw79/static/js/787.abeabf24.chunk.js",
     "static/media/annie-spratt-unsplash.jpg": "/model-gallery-tw79/static/media/annie-spratt-unsplash.e0b427a700f26bd7e73f.jpg",
     "static/media/4.jpeg": "/model-gallery-tw79/static/media/4.4dccae1f002c66853277.jpeg",
@@ -18,11 +18,11 @@
     "static/media/7.jpeg": "/model-gallery-tw79/static/media/7.b20b95c2eba28b5652ea.jpeg",
     "index.html": "/model-gallery-tw79/index.html",
     "main.0a10c789.css.map": "/model-gallery-tw79/static/css/main.0a10c789.css.map",
-    "main.ee9c6a2b.js.map": "/model-gallery-tw79/static/js/main.ee9c6a2b.js.map",
+    "main.6fcc73a5.js.map": "/model-gallery-tw79/static/js/main.6fcc73a5.js.map",
     "787.abeabf24.chunk.js.map": "/model-gallery-tw79/static/js/787.abeabf24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a10c789.css",
-    "static/js/main.ee9c6a2b.js"
+    "static/js/main.6fcc73a5.js"
   ]
 }
