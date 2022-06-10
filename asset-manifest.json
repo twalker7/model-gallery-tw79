@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/photo-gallery-thomaswalker/static/css/main.e3e579de.css",
-    "main.js": "/photo-gallery-thomaswalker/static/js/main.5f8ad06f.js",
-    "static/js/787.abeabf24.chunk.js": "/photo-gallery-thomaswalker/static/js/787.abeabf24.chunk.js",
+    "main.js": "/photo-gallery-thomaswalker/static/js/main.bde1b33a.js",
+    "static/js/787.efcc66da.chunk.js": "/photo-gallery-thomaswalker/static/js/787.efcc66da.chunk.js",
     "static/media/annie-spratt-unsplash.jpg": "/photo-gallery-thomaswalker/static/media/annie-spratt-unsplash.e0b427a700f26bd7e73f.jpg",
     "static/media/4.jpeg": "/photo-gallery-thomaswalker/static/media/4.4dccae1f002c66853277.jpeg",
     "static/media/3.jpeg": "/photo-gallery-thomaswalker/static/media/3.6065f191b1428fbb1c2e.jpeg",
@@ -18,11 +18,11 @@
     "static/media/7.jpeg": "/photo-gallery-thomaswalker/static/media/7.b20b95c2eba28b5652ea.jpeg",
     "index.html": "/photo-gallery-thomaswalker/index.html",
     "main.e3e579de.css.map": "/photo-gallery-thomaswalker/static/css/main.e3e579de.css.map",
-    "main.5f8ad06f.js.map": "/photo-gallery-thomaswalker/static/js/main.5f8ad06f.js.map",
-    "787.abeabf24.chunk.js.map": "/photo-gallery-thomaswalker/static/js/787.abeabf24.chunk.js.map"
+    "main.bde1b33a.js.map": "/photo-gallery-thomaswalker/static/js/main.bde1b33a.js.map",
+    "787.efcc66da.chunk.js.map": "/photo-gallery-thomaswalker/static/js/787.efcc66da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3e579de.css",
-    "static/js/main.5f8ad06f.js"
+    "static/js/main.bde1b33a.js"
   ]
 }
