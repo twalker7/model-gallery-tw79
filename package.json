@@ -2,7 +2,7 @@
   "name": "model-gallery-tw79",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://twalker7.github.io/photo-gallery-thomaswalker",
+  "homepage": "https://twalker7.github.io/photo-gallery-thomaswalker/",
   
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
